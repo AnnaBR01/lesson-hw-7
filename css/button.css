@@ -1,0 +1,19 @@
+.button {
+  border: none;
+  width: 100%;
+  background: #245462;
+  padding: 13px 12px 12px;
+  font-size: 13px;
+  line-height: 15px;
+  color: #ffffff;
+  font-family: inherit;
+  transition: all 0.3s;
+}
+
+.button:hover {
+  background: #4599b3;
+}
+
+.button:active {
+  background: #051c24;
+}
